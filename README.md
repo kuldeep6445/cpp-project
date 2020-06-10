@@ -1,4 +1,4 @@
-# sudoku
+# sudoku solver program
 sudoku puzzle solver
 made by:<br>
 kuldeep(co19336)<br>
